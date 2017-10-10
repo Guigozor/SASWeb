@@ -7,7 +7,7 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>SAS Web</title>
+        <title>SAS Web - Seja bem vindo :)</title>
     </head>
     <body>
         <?php
